@@ -1,0 +1,32 @@
+Preciso que você adicione esses produto a categoria camisas q está na pasta imagens de produtos adicione os produtos valor padrão 89,90.
+Links para copiar info:
+Link camisa França: https://www.lojaallsports.com.br/futebol/selecoes/camisa-futebol-franca-copa-do-mundo-2026-i-torcedor-vermelha-masculina
+Link camisa Inglaterra: https://www.lojaallsports.com.br/futebol/selecoes/camisa-futebol-franca-copa-do-mundo-2026-i-torcedor-vermelha-masculina
+Link camisa da Croácia: https://www.lojaallsports.com.br/futebol/selecoes/camisa-selecao-croacia-torcedor-2627-home-branca-e-vermelha-masculina
+Link camisa da portugual: https://www.lojaallsports.com.br/futebol/selecoes/camisa-selecao-portugal-torcedor-2627-puma-away-masculina-branca-e-azul
+Duas versões https://www.lojaallsports.com.br/futebol/selecoes/camisa-selecao-marrocos-torcedor-2627-home-masculina-vermelha
+
+TBM QUERO Q CRIE AVALICOES FAKE EM TODOS OS PRODUTOS 
+
+Tbm quero q crie um arquivo de configuração q indica q os token como da push in pay e webhook vão esta na vercel, data base tbm, nada de frontend.
+
+Quero q crie um painel admin , chamado operador-dashboard, q utilizará uma api de puxar ip, q só será ip permitidos de Maceió Alagoas.
+
+No painel admin vai ter a seção resumo: onde vai ficar as saldo atualizado em tempo real e a últimas vendas com base na database(inclusive indique uma  e dps conecta os parâmetros 
+Deixe lá login admin: usuário:admin2000 senha:pecúnia2000
+Segunda seção:adicionar produtos e remover produtos , adicionar colocar até 5 imagens via link 3 obrigatórias, nome e descrição e vai ter pra escolher a categoria ou sub categoria , pode tbm criar uma categoria  remover categoria e produtos tbm editar produto pra escolher tudo dele nome categoria descrição editar avaliação fake ou adicionar avaliação tbm, database aqui tbm. 
+Terceira seção 
+Afiliados. Subcategoria gerar afiliados:Onde vai ter pra criar um link de afiliados o nome do site vai ser varzeaimports.online/ref=link de afiliado
+Pra gerar o link nome do influencer, email e senha para login na Dashboard de afiliados, porcentagem sobre a venda, após isso vai gerar um código aí a pessoa pode remover o afiliado tbm, aí vai ter o link de afiliado mais o código o email e senha , tudo isso na database.
+Subcategoria dos afiliados: saque afiliado lá vai tá mostrando o nome, email e senha , código de ref, valor do saque solicitado e chave pix aí vai ter aprovar ou reprovar o solicitamnwto. Tudo isso database.
+Seção conta: onde pode alterar o login de admin na database e ver dispositivos conectados salvando ip e modelo de celular , localização podendo remover aí o usuário é redirecionado pra home. Lá pode banir ip salva na database aí esse ip é redirecionado. Tudo salvo na database
+Dashboard afiliado agr
+Vai ficar assim afiliados-dashbaord 
+Seção de resumo quantas vendas feita no link em tempo real , tbm solicitar saque ai vai ter uma seção registrar pix caso n configurado n vai da pra solicitar se configurado vai ser mandado lá pra área de pix solicitado do admin caso ele n aprova n desconta se aprovado ele desconta, tudo isso database
+Seção registrar pix 
+Lá só vai pedir chave pix, nome e cpf. E salva e setar 
+Tudo isso na database.
+
+Se passar de 150 o valor lá no final ele pede pra remover algo e fazer um novo pedido , mais isso só se passar de 150 na geração de pix n no carrinho
+
+Tudo isso funcione na vercel, database indique primeiro a database depois faça vc configurações nela eu mando todas as info aq ai vc salva tudo q eu pedir la database. Faça aquele arquivo de configuração da vercel database e os tokens 
